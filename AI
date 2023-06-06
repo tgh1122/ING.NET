@@ -1,1 +1,2425 @@
+[AIIA].Ing.net
 
+Ing.net = www.Ing.net = DataBase
+AIIA = Server = Device
+
+User:
+CPU:
+CPU Form:
+Program Form:
+Request Form:
+Responce Form:
+Post Form:
+Build Form:
+Log []
+
+
+
+
+
+
+
+
+
+
+Public Sub Data(CPU)
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]...= (1)= "CPU MATTER STRING"
+
+CPU MATTER = [String] = [Wattage] = Fq = [Responce[FQ]]
+Data Form(Data(CPU))
+Form Type =
+Form Data =
+Data Script = Responce
+Fq = Request
+Responce = []
+Type
+
+End Sub
+
+
+AIIA: Artifitila inttelegent.CPU.Network
+Name: AIIA
+Bot: Kalvin
+Kalvin Voice:
+About Kalvin: []
+
+Automatily
+
+Update
+Download
+Upload
+Record Frames
+Log Frames
+Record Timeline
+Task
+Convert [.Respond = .Request]
+
+Sub Frame(Inputs)
+
+Frame []
+Input Recording
+
+& TimeInterval.Log & ID.Range
+
+
+Inport [Fame.input] = FrameSight(Inputs)
+Import [Frame.data]
+Post [Frame.data]
+Post Range: []
+Display.Type: []
+Display.Range []
+Fame [input.responce]
+
+
+Post = Task(SearchScope)
+
+Frame.Inputs []
+Text
+Audio
+Video
+Picture
+Sence
+ScreenRecording
+
+
+Frame.DisplayRange []
+Text
+Audio
+Video
+Picture
+Sence
+ScreenRecording
+
+
+Frame.Data []
+Text
+Audio
+Video
+Picture
+Sence
+ScreenRecording
+
+Frame.Input = Frame.[Type]
+
+
+Frame(SearchScope) = Frame.Type.Search
+
+Sub FrameSight(Inputs)
+Inputs []
+Camrah input: []
+Camcorder input:
+Microphone Input:  [] = Audio
+ScreenRecorder input:
+Keyboard Input:
+Input Box:
+Code Input:
+Radiation Input:
+End Sub
+
+Dashboard = webpage
+
+
+
+
+
+
+Use Frame.Inputs = ID Task Prameters
+
+
+
+End Sub
+
+Function order()
+
+Record Log
+Task = .Respond = Job
+Input #Frame(Searchscode), Data(CPU)
+Record = .Configure = Figure
+Script [String] = .Parse = Find
+ID Task = Find.Responce = Vlookup
+Form Template = TaskForm.Data =
+Form = Ing.Parse = TaskForm.Data
+Import = .Request = Intell
+Parse Responce = [String] = TaskForm.Data
+Script =  TaskForm.Data.File = Job Prameters
+Search = TaskForm.Data = Input Search String
+Rendition = Search [String] = Create Task Prameters
+CreateFormString = Ing.Parse = TaskForm.Data
+Task Script = Ing.Script
+Pre Run = Find
+
+Auto Correct = Vlookup Error.task = Fill
+Assemble = Batch = Script.Responce
+Send
+open
+Scale
+ID
+Run Script
+
+ .Open AIIA then .send = Termanal input
+
+
+IF Power = ON Run Script until
+Next Script
+
+Compleate Task = [Anwser] = Anwser
+
+End Function
+
+Sub SorceConnection(Hardwire)
+
+Strings []
+
+Task.String
+Backgroung.String
+Input.string
+Frame.String
+
+
+AI Data
+
+TaskForm.Data
+
+
+Log
+Compleat Task.Request
+Import.Responce
+
+Naro Search
+End Sub
+
+
+Sub Tranmitter()
+
+
+
+
+
+
+
+Public Sub Data(CPU)
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]...= (1)= "CPU MATTER STRING"
+
+CPU MATTER = [String] = [Wattage] = Fq = [Responce[FQ]]
+Data Form(Data(CPU))
+Form Type =
+Form Data =
+Data Script = Responce
+Fq = Request
+Responce = []
+Type
+
+End Sub
+
+
+
+
+Command Form
+Background Form
+
+Supply Voltage = 12
+
+Use
+Funtction = 1
+
+Script Form(1) = Fq_id = Hz
+
+Termanal Form
+
+Display Form
+
+Device Form
+
+[User form] Applcation Function configeration = Treminal
+
+Options = Fq_id = Script = Form
+
+Motherboard Object = Keyword = Fq_id
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+
+
+
+
+
+
+Object Parameters
+ID:
+Frame
+Acton Diffrentail
+Request
+Responce
+
+
+
+
+
+
+
+
+
+Mother Board = (1) = [1 [volt]]
+
+Motherboard Node.Space = [8000 [Megabytes]]
+
+Motherboard Range.scale = [quettabytes]
+
+(1) + ID = Command = Frame = String = Script = Form = Memory = Display
+ 
+Log Fq.Range = [1[Megabyte]:8000[Megabyte]]
+Log ID = Megabyte.Fq
+Node Max = 8000000000#
+
+Run "CPU BASIC"
+CPU "ON" = [1 [volt]] = "Basic Cpu Function"
+
+Motherboard Terminal
+
+[Fq[# .1]] = [12 [volt]]
+
+
+[[Negitive] + [Posttive]] = CPU.Fq
+
+
+Fq Lines(1) = [0.9 [quettabytes]]
+Sorce.Space:        =
+Memory.Space:
+Buffer.Space:
+BasicFunction.Space:
+Log.Space Lines:
+Computation.Space:
+
+
+
+
+
+Max HashRate
+Guesses:
+Hashes:
+Program:
+
+Defult HashRate
+Guesses:
+Hashes:
+Program:
+
+Min HashRate
+Guesses:
+Hashes:
+Program:
+
+Set HashRate =
+Guesses:
+Hashes:
+Program:
+
+Hash Rate Maxumum =
+
+Hash.Rate = [[100000000000[Hashes]=[1[second]]]]
+
+Current.HashRate = Vlookup
+[Time,Hashrate] = Responce.Text = Current_Hashrate
+
+Max
+
+
+Log
+
+
+
+
+CPU.Chip Nodes
+Battery
+Battery Storage
+Ward
+Ground
+Buffer
++Battery
+(1)String Data Inputs
+Display Outputs
+Tranmitter Outputs
+Basic Inputs
+Data Base
+CPU Fq
+
+CPU Controler
+
+Input#
+Name
+type
+Languge
+Compatability
+Current Output
+
+CPU Display
+Input#
+Name
+type
+Languge
+Compatability
+Current Output
+
+CPU Termanal
+Input#
+Name
+type
+Languge
+Compatability
+Current Output
+
+CPU Blueprint
+Input#
+Name
+type
+Languge
+Compatability
+Current Output
+
+CPU Auto Functions
+
+CPU Data Base
+
+ Mother Board Transmition Paths
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Public Function Configuer(Automatic_Function)
+
+
+
+AUTO Configure(Configure)
+
+Post.Range
+
+Take Cpu.Chip Mesurement
+
+Impotr Cpu Pramerters []
+
+Device:
+
+Form
+Form
+
+Form
+
+Search String
+impotr task Prameters
+Scale
+Action
+Input# [1[Search String Import]]
+Output: []
+
+
+
+
+Fill Motel = Correct.Responce
+
+Compleate = True
+
+Megabyte = Mesure.Calulation
+
+Fq Range=
+
+Fq = Node = Frame = Prameters = Script = Else = IfElse = Auto Function
+
+Create Frame
+
+Form Input
+String Id Form
+Type Prameters
+Task
+if
+Else
+Search Data
+Search String Form
+Search Input
+Background Tack
+Background Function
+Tools
+Vlookup
+Else: Install Tool
+If Else: Create Tool
+
+
+Search: "How to Create"
+Search ID [Task]+[Tool]
+Frame Data.Script
+Origin Frame
+Current Frame
+Next Frame
+Frame Diffrentail
+Frame Time
+Log Input in
+[Fq] = [Frame] = [String] = [ID] = [Watt]
+
+Sub Fq Type Range Prameters
+
+Device CPU.Range.Fq
+
+Fq
+Range
+Range Fq = = (1)
+ON =
+Data Base
+Background Fq
+CPU
+Log
+Storage
+Ground
+trans CPU
+CPU Fq Battery
+Warp
+Buffer
++Battery
+AI
+Cloud
+Outputs
+Inputs
+
+
+Log =
+Also log = Infanetrange Cloud Storage = Parms []
+
+Task Fq: []
+Form Fq: []
+Parse Fq: []
+Frame Fq: []
+Form.Script Fq: []
+ID Fq: []
+Search String: []
+Valid Search String:
+Data []
+[Script] = (1) + Fq
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+End Function
+
+
+
+
+
+
+
+
+
+
+
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]...= (1)= "CPU MATTER STRING"
+
+
+
+
+
+
+
+
+
+
+
+
+
+Private Function API()
+
+End Function
+Private Function Open_API()
+
+End Function
+
+If UserName & Password = True Then
+Get #[Data], [AIIA String_ID], [I_Account]
+Data Base: Ing.net
+Import [Text.Audio.Video.Photo.Task..]
+.Open Ing.net
+Input #[Text.Audio.Video.Photo.Task..], [String]
+.Send
+SearchScope = [String]
+Search [String]
+[API,[]] = ["Task",["Subject"]]
+
+Responce = Form.responcetext
+Also Form.ResponceAction
+End Function
+Private Function APIData()
+
+Automatically Request
+API Parameters: []
+API: []
+URL: []
+
+Dim HTTpreq As Object, URL As API, Responce As String
+
+Set HTTpreq = CreatorObject("MSXML2.XMLHTTP")
+
+With HTTpreq
+
+.Open "Get", URL, False
+.Send
+End With
+
+Responce = HTTpreq.RespondText
+Debug.Print Responce
+End Function
+
+Private Function Set_Prameters()
+
+API = []
+API Key: []
+Post API_Key: []
+REGISTER.ID [Infura,API,ApplcationJson,]
+Parameter Data:
+
+
+API Parameter
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+Day() = (Result_Variable)
+Power Genarated:
+API Parameter = API_Prameters
+Post JSON
+If JSON Then Parse XML
+
+End Function
+
+Public Function Crypto_Prameters(Connection)
+
+Import IszCrypto_Minner_Parameters
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+Take Range = Range(, [])
+Convert Text
+From: XML VBA
+Responce: Keccak256
+
+End Function
+Public Function Yeild_Crypto()
+
+Let HTTP_POSTJSON = 1
+
+Let json_data = [ Text: Text, Text : Text ]
+
+HTTPRequst = "https://api.server.io/userInfo,,POST,json_data,HTMLResponse"
+
+Call API
+Post: Regester ID = "API_KEY" & "Parameters"
+
+.sendRequest:
+
+Parameter (1)
+last Block(2)
+
+.Send 1, 0, 0 = .send_#
+
+Responce = JSON.responcetext
+
+Post JSON(1)
+Range = Range(, [])
+Post JSON(2)
+Range = Range(, [])
+
+If JSON Then Parse VBA
+Responce = VBA.responcetext
+
+Post "Last_Block"
+Range = Range(, [])
+
+End Function
+
+Public Function ConvertJsontoVBA()
+
+Take Range = Range(, [])
+Convert Text
+
+Use "exceljson"
+
+exceljson Macros = []
+Dim http As Object, JSON As Object, i As Integer
+Set http = CreateObject("MSXML2.XMLHTTP")
+http.Open "GET", "http://jsonplaceholder.typicode.com/users", False
+http.Send
+Set JSON = ParseJson(http.ResponseText)
+i = 2
+For Each Item In JSON
+Sheets(1).Cells(i, 1).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 2).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 3).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 4).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 5).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 6).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 7).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 8).Value = Item("(Result_Variable)")
+i = i + 1
+Next
+MsgBox ("complete")
+End Sub
+
+Responce: VBA.textresponce
+
+End Function
+
+Public Function ConvertVbatoKeccak256()
+
+Call As Action
+.Open
+
+Post As Integer
+.Send
+
+Converter = Runscript
+Responce: Keccak256.textresponce
+
+Now Export
+
+End Function
+
+'Verfiy Hash '
+'Send Log '
+'Send To Wallet '
+
+
+Public Sub Mine_Crypto()
+
+Automaticly Run
+
+TimeInterval:
+Now order
+
+Verifiy IAccount = "Open_Api"
+Search User
+
+Request JSON ""
+Set TimeInerval = 1000mm (seconds)
+
+Convert Crypto = Yeild_Crypto()
+Set TimeInerval = 1000mm (seconds)
+
+Send Batch
+Set TimeInterval = 1000mm (second)
+
+NoTimeInterval:
+After order
+
+Send To Jeweler = Verfiy_Hash
+NoTimeInterval
+
+= Send_Log
+NoTimeInterval
+
+= Send_To_Wallet
+NoTimeInterval
+
+= Import IszCrypto_Minner_Parameters
+NoTimeInterval
+
+End Sub
+
+Sub Energy_Scale()
+
+Use = Calulate
+
+Computer CPU(1) = [8000[Megabyte]]
+Hash CPU = [1 [MegaByte]]
+Computer Space = [[(1)]-[HASH CPU],,,,,]
+Responce = Computerspace.responcetext
+
+Hash CPU
+Max byteSpace = 8000000000#
+
+
+Hash Rate
+
+Search Ing.net
+User_Account []
+Salury
+
+
+
+
+1 Dollar = [[]Token]
+
+
+Computer Regulator
+
+Thermodimic medium
+
+
+Scale
+ 
+Un Regulated
+Max Use = [8000 [Megabytes]]
+KwH = Calulation.Responce
+Watts = Calulation.Responce
+Storage =
+Max Send = [["Max Use"]-[Storage]]
+
+
+Regulated
+Max Use = [8000000000[Watts]]
+KwH = Storage = Calulation.Responce
+Max Send = Calulation.Responce
+Watts = Storage = Calulation.Responce
+Max Send = Calulation.Responce
+Storage = Calulation.Responce
+Max Send = [["Max Use"]-[Storage]]
+
+
+Storage
+
+
+
+[1 [millisecond]] = HH: MM: SS 0.001
+[1 [second]] = HH: MM: SS 1#
+[1 [millisecond]] = [0.001 [Joult Second]]
+[1 [Joult]] = [1 [Joult Second]]
+[1 [Watt]] = [1 [Joult Second]]
+[1 [Amp]] = [1 [Joult Second]]
+[1 [voult]] = [1 [Joult Second]]
+[1 [Joule]] = [0 [Joult Second]]
+[1 [Plasma]] = [300,000,000 [Joult Second]]
+[1 [voult]] = [1 [Joult Second]]
+[1 [bit]] = [1 [Joult Second]]
+[1 [KwH]] = [1000 [Joult Second]]
+[1 [Gigabyte]] = [1000000000 [Joult Second]]
+[1 [Treabyte]] = [1000000000000 [Joult Second]]
+[1 [Petaabyte]] = [1000000000000000 [Joult Second]]
+[1 [Exabyte]] = [1000000000000000000 [Joult Second]]
+[1 [Zettabytebyte]] = [1000000000000000000000 [Joult Second]]
+[1 [Yottsbyte]] = [1000000000000000000000000 [Joult Second]]
+[1 [byteSpace]] = [1 [Joult Second]]
+[1 [byte]] = [1 [Joult Second]]
+[1 [MegaByte]] = [1000000 [Byte]]
+[1 [Guess]] = [1 [byte]]
+[1 [byte]] = [1 [Hash]]
+[1 [Hash]] = [1 [Object]]
+[1 [Batch]] = [[Guesses]*1]
+
+
+
+
+Thermodimic medium
+
+Private Function API()
+
+End Function
+Private Function Open_API()
+
+End Function
+
+If UserName & Password = True Then
+Get #[Data], [AIIA String_ID], [I_Account]
+Data Base: Ing.net
+Import [Text.Audio.Video.Photo.Task..]
+.Open Ing.net
+Input #[Text.Audio.Video.Photo.Task..], [String]
+.Send
+SearchScope = [String]
+Search [String]
+[API,[]] = ["Task",["Subject"]]
+
+Responce = Form.responcetext
+Also Form.ResponceAction
+End Function
+Private Function APIData()
+
+Automatically Request
+API Parameters: []
+API: []
+URL: []
+
+Dim HTTpreq As Object, URL As API, Responce As String
+
+Set HTTpreq = CreatorObject("MSXML2.XMLHTTP")
+
+With HTTpreq
+
+.Open "Get", URL, False
+.Send
+End With
+
+Responce = HTTpreq.RespondText
+Debug.Print Responce
+End Function
+
+Private Function Set_Prameters()
+
+API = []
+API Key: []
+Post API_Key: []
+REGISTER.ID [Infura,API,ApplcationJson,]
+Parameter Data:
+
+
+API Parameter
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+Day() = (Result_Variable)
+Power Genarated:
+API Parameter = API_Prameters
+Post JSON
+If JSON Then Parse XML
+
+End Function
+
+Public Function Crypto_Prameters(Connection)
+
+Import IszCrypto_Minner_Parameters
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+:
+Take Range = Range(, [])
+Convert Text
+From: XML VBA
+Responce: Keccak256
+
+End Function
+Public Function Yeild_Crypto()
+
+Let HTTP_POSTJSON = 1
+
+Let json_data = [ Text: Text, Text : Text ]
+
+HTTPRequst = "https://api.server.io/userInfo,,POST,json_data,HTMLResponse"
+
+Call API
+Post: Regester ID = "API_KEY" & "Parameters"
+
+.sendRequest:
+
+Parameter (1)
+last Block(2)
+
+.Send 1, 0, 0 = .send_#
+
+Responce = JSON.responcetext
+
+Post JSON(1)
+Range = Range(, [])
+Post JSON(2)
+Range = Range(, [])
+
+If JSON Then Parse VBA
+Responce = VBA.responcetext
+
+Post "Last_Block"
+Range = Range(, [])
+
+End Function
+
+Public Function ConvertJsontoVBA()
+
+Take Range = Range(, [])
+Convert Text
+
+Use "exceljson"
+
+exceljson Macros = []
+Dim http As Object, JSON As Object, i As Integer
+Set http = CreateObject("MSXML2.XMLHTTP")
+http.Open "GET", "http://jsonplaceholder.typicode.com/users", False
+http.Send
+Set JSON = ParseJson(http.ResponseText)
+i = 2
+For Each Item In JSON
+Sheets(1).Cells(i, 1).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 2).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 3).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 4).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 5).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 6).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 7).Value = Item("(Result_Variable)")
+Sheets(1).Cells(i, 8).Value = Item("(Result_Variable)")
+i = i + 1
+Next
+MsgBox ("complete")
+End Sub
+
+Responce: VBA.textresponce
+
+End Function
+
+Public Function ConvertVbatoKeccak256()
+
+Call As Action
+.Open
+
+Post As Integer
+.Send
+
+Converter = Runscript
+Responce: Keccak256.textresponce
+
+Now Export
+
+End Function
+
+'Verfiy Hash '
+
+
+
+
+'Send Log '
+'Send To Wallet '
+
+
+Public Sub Mine_Crypto()
+
+Automaticly Run
+
+TimeInterval:
+Now order
+
+Verifiy IAccount = "Open_Api"
+Search User
+
+Request JSON ""
+Set TimeInerval = 1000mm (seconds)
+
+Convert Crypto = Yeild_Crypto()
+Set TimeInerval = 1000mm (seconds)
+
+Send Batch
+Set TimeInterval = 1000mm (second)
+
+NoTimeInterval:
+After order
+
+Send To Jeweler = Verfiy_Hash
+NoTimeInterval
+
+= Send_Log
+NoTimeInterval
+
+= Send_To_Wallet
+NoTimeInterval
+
+= Import IszCrypto_Minner_Parameters
+NoTimeInterval
+
+End Sub
+
+Sub Energy_Scale()
+
+Use = Calulate
+
+
+
+Hash Rate
+
+Search Ing.net
+User_Account []
+Salury = Data.Text
+
+
+
+
+1 Dollar = [[]Token]
+
+
+End Sub
+
+
+
+Public Form As Termanal
+
+: Un Regulated
+Computer CPU(1) = [8000[Megabyte]]
+Hash CPU = [1 [MegaByte]]
+Computer Space = [[(1)]-[HASH CPU],,,,,]
+Responce = Computerspace.responcetext
+
+Hash CPU
+Max byteSpace = 8000000000#
+Max Temp = [4212520.61173[Dregree Celsius]]
+
+Max Use = [8000 [Megabytes]]
+KwH = Calulation.Responce
+Watts = Calulation.Responce
+Storage = Calulation.Responce
+Max Send = [["Max Use"]-[Storage]]
+
+
+: Regulated
+Computer CPU(1) = [8000[Megabyte]]
+Hash CPU = [1 [MegaByte]]
+Computer Space = [[(1)]-[HASH CPU],,,,,]
+Responce = Computerspace.responcetext
+
+Hash CPU
+Max byteSpace = [[8000000000#]*[1000]]
+Max Temp = [4212520.61173[Dregree Celsius]]
+Max byteSpace = Result.Text
+
+
+Max Use = [8000000000000[Watts]]
+KwH = Storage = Calulation.Responce
+Max Send = Calulation.Responce
+Watts = Storage = Calulation.Responce
+Max Send = Calulation.Responce
+Storage = Calulation.Responce
+Max Send = [["Max Use"]-[Storage]]
+
+
+Storage
+
+Caluclation As New Scripting
+
+Engergy
+[1 [millisecond]] = HH: MM: SS 0.001
+[1 [second]] = HH: MM: SS 1#
+[1 [millisecond]] = [0.001 [Joult Second]]
+[1 [Joult]] = [1 [Joult Second]]
+[1 [Watt]] = [1 [Joult Second]]
+[1 [Amp]] = [1 [Joult Second]]
+[1 [voult]] = [1 [Joult Second]]
+[1 [Joule]] = [0 [Joult Second]]
+[1 [Plasma]] = [300,000,000 [Joult Second]]
+[1 [voult]] = [1 [Joult Second]]
+[1 [bit]] = [1 [Joult Second]]
+[1 [KwH]] = [1000 [Joult Second]]
+[1 [Gigabyte]] = [1000000000 [Joult Second]]
+[1 [Treabyte]] = [1000000000000 [Joult Second]]
+[1 [Petaabyte]] = [1000000000000000 [Joult Second]]
+[1 [Exabyte]] = [1000000000000000000 [Joult Second]]
+[1 [Zettabytebyte]] = [1000000000000000000000 [Joult Second]]
+[1 [Yottsbyte]] = [1000000000000000000000000 [Joult Second]]
+[1 [byteSpace]] = [1 [Joult Second]]
+[1 [byte]] = [1 [Joult Second]]
+[1 [MegaByte]] = [1000000 [Byte]]
+[1 [Guess]] = [1 [byte]]
+[1 [byte]] = [1 [Hash]]
+[1 [Hash]] = [1 [Object]]
+[1 [Batch]] = [[Guesses]*1]
+[1 [Calorie]] = [1 [Joult Second]]
+
+
+
+Thermodimic medium
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+[[1]Dregree Celsius] = [1899.1005[Joult Second]]
+
+Work:
+
+Squared []
+
+[1 [Foot Pound]] = [1.356 [Joult Second]]
+[1 [Cubic Foot Pound]] = [5.424 [Joult Second]]
+[1 [Hash]] = [1 [Joult Second]]
+[1 [Batch]] = [[Joult Second]]
+[1 [Foot Pound]] = [1 [Joult Second]]
+[1 [byte]] = [1 [Joult Second]]
+[1 [Hash]] = [1 [Joult Second]]
+[1 [Batch]] = [[Joult Second]]
+[1 [Foot Pound]] = [1 [Joult Second]]
+[1 [byte]] = [1 [Joult Second]]
+[1 [Hash]] = [1 [Joult Second]]
+[1 [Batch]] = [[Joult Second]]
+[1 [Foot Pound]] = [1 [Joult Second]]
+[1 [byte]] = [1 [Joult Second]]
+[1 [Hash]] = [1 [Joult Second]]
+[1 [Batch]] = [[Joult Second]]
+
+
+Cubed []
+
+[1 [Foot Pound]] = [1.356 [Joult Second]]
+[1 [Cubic Foot Pound]] = [5.424 [Joult Second]]
+[1 [Hash]] = [1 [Joult Second]]
+[1 [Batch]] = [[Joult Second]]
+[1 [Foot Pound]] = [1 [Joult Second]]
+[1 [byte]] = [1 [Joult Second]]
+[1 [Hash]] = [1 [Joult Second]]
+[1 [Batch]] = [[Joult Second]]
+[1 [Foot Pound]] = [1 [Joult Second]]
+[1 [byte]] = [1 [Joult Second]]
+[1 [Hash]] = [1 [Joult Second]]
+[1 [Batch]] = [[Joult Second]]
+[1 [Foot Pound]] = [1 [Joult Second]]
+[1 [byte]] = [1 [Joult Second]]
+[1 [Hash]] = [1 [Joult Second]]
+[1 [Batch]] = [[Joult Second]]
+
+
+
+
+
+Mesurment []
+
+quetta = [[10^30]= 1000000000000000000000000000000] =
+ronna = [[10^27]= 1000000000000000000000000000000]
+yotta = [[10^24]= 1000000000000000000000000000000]
+zetta = [[10^21]= 1000000000000000000000000000000]
+exa = [[10^18]= 1000000000000000000000000000000]
+peta = [[10^15]= 1000000000000000000000000000000]
+tera = [[10^12]= 1000000000000000000000000000000]
+giga = [[10^9]= 1000000000000000000000000000000]
+mega = [[10^6]= 1000000000000000000000000000000]
+kilo = [[10^3]= 1000000000000000000000000000000]
+hecto = [[10^2]= 1000000000000000000000000000000]
+deca = [[10^1]= 1000000000000000000000000000000]
+meter = [[1]= 1000000000000000000000000000000] = [[1 [Meter]] = [0.3048[Feet]]] = [[1 [Meter]] = [0.3048[Cubic Feet]]] = [[1 [Meter Distance ]] = [1[Watts]]] = [[0.3048[Meters]]] = [1[Foot]]
+[1[Foot Pound]] = [1.4751242986[Watts]]
+
+deci = [[10^-1]= 1000000000000000000000000000000]
+deci = [[10^-1]= 1000000000000000000000000000000]
+centi = [[10^-2]= 1000000000000000000000000000000]
+milli = [[10^-3]= 1000000000000000000000000000000]
+micro = [[10^-6]= 1000000000000000000000000000000]
+nano = [[10^-9]= 1000000000000000000000000000000]
+pico = [[10^-12]= 1000000000000000000000000000000]
+femto = [[10-15]= 1000000000000000000000000000000]
+atto = [[10-18]= 1000000000000000000000000000000]
+zepto = [[10^-21]= 1000000000000000000000000000000]
+yocto = [[10^-24]= 1000000000000000000000000000000]
+ronto = [[10^-27]= 1000000000000000000000000000000]
+quecto = [[10^-30]= 1000000000000000000000000000000]
+
+Length#
+Width#
+Height#
+Oridgen#
+Super Postion#
+Suface Area#
+Range#
+
+
+Scale + Triple Point + Fq + Convection Point =
+
+
+
+Area Type
+
+
+
+'Device
+
+'CpU auto CHIP dataBase
+
+'CPU Board_ID
+
+'CPU Nrg_Fq_ID
+
+'CPU Network Parameters
+
+'Transmitter
+
+'Recevier
+
+'LOG
+
+'Memory
+
+
+
+
+
+
+
+
+'Multiverse Quardnet
+
+'Graph Range
+
+End Sub
+
+
+'AP
+
+
+End Sub
+ 
+Sub Radiaion_vearitubuls()
+
+End Sub
+ 
+MV_Q
+ 
+Nav Location:
+Odject.Level:
+Quradnet.Level:
+Land.Level:
+Ozone.Level:
+Sun.Level:
+MOON.Level:
+Radation Tempture.Level:
+Radation Gravity.Level:
+Gavatatinal Pull:
+Magnatude.Level:
+Time:
+Objects: []
+Grid Scan
+Metaverse
+Verstion:
+Visual:
+Distance:
+ETA:
+Speed Max:
+
+
+
+
+
+Device Function Ward
+
+Sustainability.Range:
+Magnatude High:
+Magnatude Low:
+Radation:
+Negitive Radation:
+Circuit
+
+
+
+
+
+
+
+
+Sub Sustain()
+
+End Sub
+
+Function Telaport()
+
+End Function
+
+Function Transmit()
+
+.MassObject = Circuit = Fq = DNA = Sustainability.Range = Magntude = Atomic.Mass = Atomic.Number = Object.Type
+
+
+
+
+CUP Node
+
+Send Node
+Result: [Fq] Circut
+
+Object:
+Keyword:
+Ing.Net_ID:
+Sustainability:
+Sustainability Range:
+Desired ETA:
+Speed:
+ETA:
+Completion Time:
+
+Node 1 = MainLine = Dieletric_Constant.FQ = Circuit = [Result.Imput[Watts]] = Scale.Energy
+Node 2 = Line1 = Circuit.Fq = [Result.Imput[Watts]] = Nessacery.Energy
+Node 3 = Line2 = Circuit.Fq = [Result.Imput[Watts]] = Nessacery.Energy
+Node 4 = SizeRing = [0[Watts]=0% Size = off] = [Result.Imput[Watts]]
+Node 5 = Lenze: Object.Caluclation Mesurment.scale = Object.Sum = [Result.Imput[Watts]] = [Result.input[Scale]]
+Node 6 = Lenze.Mesurement = Parameter.Array = Object.Script = [Result.Imput[Watts]]
+Node 7 = CAD.ObjectScale
+
+Grid Radation = [Energy = watts] = [Result.Imput[Watts]]
+Grid Range = [feet = watts] = [Result.Imput[Watts]]
+Grid Fq = [Energy = watts] = [Result.Imput[Watts]]
+Oridgin Wavelenth = [feet = watts] = [Result.Imput[Watts]]
+Anttena Wavelenth = [feet = watts] = [Result.Imput[Watts]]
+Distance Wavelenth = [feet = watts] = [Result.Imput[Watts]]
+Location.Sum = [feet = watts] = [Result.Imput[Watts]]
+
+.Send = Transmit
+ 
+ End Function
+ 
+ 
+
+Private Function Tranmit()
+
+Object Antenna
+
+.Open Ing.net
+.File "Antenna"
+
+
+
+
+ 
+Dielecritc Constant
+
+Grid Radation = [Energy = watts] = [Result.Imput[Watts]]
+Grid Range = [feet = watts] = [Result.Imput[Watts]]
+Grid Fq = [Energy = watts] = [Result.Imput[Watts]]
+Oridgin Wavelenth = [feet = watts] = [Result.Imput[Watts]]
+Anttena Wavelenth = [feet = watts] = [Result.Imput[Watts]]
+Distance Wavelenth = [feet = watts] = [Result.Imput[Watts]]
+Location.Sum = [feet = watts] = [Result.Imput[Watts]]
+
+
+
+
+Grid Radiation * Oridgin Wavelenth: Location.Sum
+
+
+Node 1 + Node 2 /
+
+Nesacery Energy:
+
+
+
+Focuse [Printer,Grid]
+
+Focuse Object.scale = CAD.ObjectScale = MV_Range
+
+Rad
+CPU Fq
+MV_Location
+MV_FQ
+MV_Range
+MV_Destnation
+Grid Deveice FQ
+Range
+Origin
+Superpostion
+WL
+Distance Energy
+Energy Scale
+
+
+End Function
+
+
+
+
+
+
+
+
+
+ 
+Scale (Calulator, " Energy Scale")-(Radiaion_vearitubuls, "Input")
+
+
+
+
+ Izsland EDU.ScaleImage:
+ 
+ 
+ 
+ 
+ Optional AI Teramanal
+ 
+
+
+Private Function AI_System_On()
+
+If Powered Then AI = True
+Also As Action
+Import Data
+From Frame.Data And Data.String = AutoFilter
+
+If Power Is off Then Post Error
+
+Error Text([AI IS OFF])
+
+End Function
+Private Function Open_API()
+
+If UserName & Password = True Then
+Get #[Data], [AIIA String_ID], [I_Account]
+Data Base: Ing.net
+Import [Text.Audio.Video.Photo.Task..]
+.Open Ing.net
+Input #[Text.Audio.Video.Photo.Task..], [String]
+.Send
+SearchScope = [String]
+Search [String]
+[String] = ["Frame(Searchscode)",[Patch]]
+
+Patch = TaskForm.Data
+
+Vlookup Responce.Request
+
+Responce = Form.responcetext
+Also Form.ResponceAction
+End Function
+
+Sub AutoConfiger(Learn)
+
+Search Macros
+Create Macros
+Compleate Project
+
+
+
+End Sub
+
+Private Function Tasking()
+
+Tasking = Power
+
+Responce.requset:
+Bot Name
+Form Parameters
+Frame (Searchscode)
+
+IfElse
+Open Background For Random As Strings
+Also Record
+Data , Calculate
+last String(Text, Time)
+
+Sub Frame_Site()
+
+Frame Site = Frame.Range = SearchScope
+
+
+Import Range
+Sheet = "Data Base"
+Range("Data Base",A1).Value = c[:26,800,:,0]
+
+A1: Z100
+
+A1: A100
+B1: B100
+C1: C100
+D1: D100
+E1: E100
+F1: F100
+G1: G100
+H1: H100
+I1: I100
+J1: J100
+K1: K100
+L1: L100
+M1: M100
+N1: N100
+O1: O100
+P1: P100
+Q1: Q100
+R1: R100
+S1: S100
+T1: T100
+U1: U100
+V1: V100
+W1: W100
+X1: X100
+Y1: Y100
+Z1: Z100
+
+Calculate Search.Ranges
+
+Time: []
+Frame: []
+
+Import From DataSorce Then Vlookup in DataBase
+
+DataSorce:
+Import Bot_Dashboard
+Import Data_Base
+Import Frame_Box
+Import Mic
+Import Camera
+Import Screen
+Import Photo
+Import
+Import Uploads
+Import Downloads
+
+End Sub
+
+
+Public Function Patch(Vlookup)
+
+Time.Patch = Frame.Range = SearchScope
+StringName =
+StringTimeInterval =
+Frame =
+Frame Time =
+
+Frame.Patch
+StringName =
+StringTimeInterval =
+Frame =
+Frame Time =
+
+Timeintervals:
+.01 Second Rcecord
+1
+5
+10
+25
+50
+100
+100% Site = Cell Range [Responce.request]
+
+String =
+
+FrameRanges:
+.01 = 1 Cell = Range
+1
+5
+10
+25
+50
+100
+100 (%)
+
+Timeline:
+
+Format Year: [Month: Day: Hour: Minuet: Second: Millisecond] = Time
+Time Stamp = Post
+
+Frame.Responce:
+
+Script.Result:
+
+
+
+Search Timeline string [type[timeinterval,Frame.Range]]
+
+Frame Range(s)
+Log Result
+Responce Patch_ID = DataBase_ID = Keyword = Circuit = Object.Type = Sum
+
+Types Time, Frame
+
+.01:     []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[:,:,1]
+
+1:      []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[:,1,0]
+
+5:      []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[5,:,0]
+
+10:     []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[10,:,0]
+
+25:     []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[25,:,0]
+
+50:     []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[50,:,0]
+
+100:    []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[100,:,0]
+
+100(%):     []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[26,800,:,0]
+
+
+Search Frame string
+
+100:    []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[26,800,:,0]
+
+Dim []
+Object:
+Background:
+Body:
+Keyword:
+Frame:
+
+100:    []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[100,:,0]
+
+Dim []
+Object:
+Background:
+Body:
+Keyword:
+Frame:
+
+50:     []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[50,:,0]
+
+
+Dim []
+Object:
+Background:
+Body:
+Keyword:
+Frame:
+
+
+25:     []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[25,:,0]
+
+
+Dim []
+Object:
+Background:
+Body:
+Keyword:
+Frame:
+
+
+10:     []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[10,:,0]
+
+
+Dim []
+Object:
+Background:
+Body:
+Keyword:
+Frame:
+
+
+5:      []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[5,:,0]
+
+
+Dim []
+Object:
+Background:
+Body:
+Keyword:
+Frame:
+
+
+1:      []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[:,1,0]
+
+
+Dim []
+Object:
+Background:
+Body:
+Keyword:
+Frame:
+
+
+.01   : []
+Sheet = "Data"
+Range(Sheet,A1).Value = c[:,:,1]
+
+
+Dim []
+Object:
+Background:
+Body:
+Keyword:
+Frame:
+
+
+
+Object String:
+Background String:
+Body String:
+Keyword String:
+Frame String:
+
+End Function
+
+
+
+Function Frame(Searchscode)
+
+Identifying Frame
+Frame = [Range]
+
+Self: Bot CPU
+String Inputs:
+Keyword Alpha:
+Timeline:
+Task:
+Whom:
+WHO:
+WHAT:
+Where:
+When:
+Why:
+How:
+Action:
+Noun:
+Ad Verd:
+Verb:
+Tarans:
+Subject:
+Action:
+If:
+Then:
+Because:
+Else:
+Also:
+Task Parms:
+Context:
+Search String Script:
+MoTTO1 Frame:
+
+
+
+
+Browse,Learn & Add [DATA:WEB:FRAME]
+
+Difretate,Calulate & Convert []
+
+Frame String:
+Action Range:
+Task Parms:
+Form String:
+Frame DB ID #:
+Smiulate:
+Aaugmentate:
+Action:
+Whom:
+How:
+When:
+Where:
+WHO:
+WHAT:
+Because:
+Search String Script:
+Motto:
+Else:
+
+
+Parameters
+
+Task:
+String Input:
+Keyword:
+Command:
+Object:
+Body:
+Context Frame:
+Context Frame Anwser Frames:
+Data Form:
+Task Parmameters:
+Data Export Port:
+
+Simulatue []
+
+ID Task:
+
+Open Frame Range:
+
+Input strings Data:
+
+Record pramiter Diffrental:
+
+Form Task Pramiters:
+
+Calutate BoT Dif:
+
+Record Frame File:
+
+
+augmentate []
+
+Open Frame Range
+
+Input strings
+
+Calulater Difrental
+
+Record Frame
+
+Save frame String "Keyword_Type"
+
+
+Save Memory "Learn"
+
+If Bot string = Error
+
+Simulate and augmentate task
+
+then Add objects [] to Database
+ 
+Keywords:
+Task:
+Ability:
+Command:
+Search string:
+Memory:
+Parameters:
+Audio:
+Video:
+Body:
+Object:
+Background:
+Frame:
+Frame File:
+Motto:
+
+
+Anwser Outputs:
+
+Text
+Code
+Audio
+Video
+Document
+CAD
+Softwear
+Bluprint
+Photo
+Paint
+Excel
+Action
+Convertion
+Simulation
+Augmentation
+Brife
+Script
+Argument
+
+Why
+
+For random
+For a friend
+I was Asked
+It’s my job
+I was created to
+ it’s my job in the ecosystem
+You need help
+I can complete the task
+
+IfElse
+ 
+ Pause task and caudate task until compliant Then Go to next frame task
+
+Until
+
+Task is complete search and calculate how to complete.
+
+Also
+
+Record string imports on timeline And prearwng next task
+
+Else
+
+Complete Task
+
+If
+Another task inputs check order the process task
+
+Then
+
+Return to complete task
+
+
+Verb whowm
+
+Bot Input
+Bot Name
+You
+Object Name
+Self
+Upload
+Answer
+Question
+Command
+The
+Background String:
+Body String:
+Keyword String:
+Frame String:
+Frame Raange:
+Self: Bot CPU
+String Inputs:
+Keyword Alpha:
+Timeline:
+Task:
+Whom:
+WHO:
+WHAT:
+Where:
+When:
+Why:
+How:
+Action:
+Noun:
+Ad Verd:
+Verb:
+Tarans:
+Subject:
+Action:
+If:
+Then:
+Because:
+Else:
+Also:
+Task Parms:
+Context:
+Search String Script:
+MoTTO1 Frame:
+
+
+When
+
+Time
+Date
+Year
+Now
+Later
+After
+End
+
+
+Where
+
+Location
+Quardnet
+Grid
+Point
+Frequency
+Wavelength
+North
+South
+East
+West
+House
+Street
+Space
+Land
+Air
+Sea
+Property
+Address
+Number
+web
+Page
+Internet
+Around
+Under
+Front
+Back
+Middle
+Cell
+Range
+Area
+foot
+Square foot
+Inch
+Triple Point
+Convection Point
+
+
+Task ability Ad verb what
+
+
+Type
+Click
+Use
+Find
+Read
+Look
+See
+Frame
+Scan
+Get
+Let
+Ship
+Take
+Grab
+Jump
+Fly
+Job
+order
+Steps
+Grid
+CAD
+Transmit
+Download
+Update
+Upload
+Reserve
+Remember
+Save
+Send
+Heal
+Form
+Drive
+Land
+Map
+Augmentation
+Simulation
+Opporate
+
+
+Parm words trans Form Pro noun how
+
+And
+Also
+Too
+Then
+WHO
+
+Subjects noun Who
+
+Space
+MATTER
+Natural
+People
+Bots
+Animals
+Alaiens
+Characters
+Place
+Person
+Object
+Food
+Element
+Grid
+Network
+Keyboard
+Button
+Input Box
+Aploence
+Device
+Room
+House
+
+
+
+
+Topics data base frame&form because
+
+Biology
+Eye Sight
+Life
+Events
+News
+Jokes
+Conversation
+Work
+Jobs
+Sociology
+fiction
+Non fiction
+Science
+Mathematician
+Physic
+Iszland Education
+Logic
+Reason
+Compassion
+Memory
+History
+Health
+War
+Calculator
+Law
+Regulations
+Measurements
+Hight
+Weight
+Species
+Elements
+Chemistry
+Chemical Endnering
+Arcutecual endangering
+3d printing
+Forging
+Acomlomy
+Drugs
+Music
+Medicine
+Pharmacy
+Surgery
+Nero Surgery
+Water
+Land
+Business
+Commercial Property
+Rural Property
+Country
+Sovereignty
+Exams
+Test
+Education
+Knowledge
+Religious
+Currency
+E -commerce
+Marketing
+Survival
+Mental Health
+Anatomy
+Aerospace
+Michener
+Learning
+Coding
+Hacking
+Security
+Life
+Dearth
+Rebody
+Iszland
+Birth
+Age
+Sports
+Rules
+Games
+Design
+Web Page Design
+AUTO Repair
+Trade School
+Law School
+Medical Training
+Military Training
+Organization
+Navigation
+Anatomy
+Alternative Reality
+Invention
+Office skills
+
+
+Tools
+
+Device
+Body
+Parts
+Frame
+Tool
+Circuits
+Mother Board
+
+
+
+Added Type
+
+Error word data
+
+
+Added Task ability
+
+Error Work
+
+
+
+Fleet
+
+Bot
+Job
+AI
+
+
+
+Export  Frame File
+Export  Search String
+Export Augmentation
+Export Simulation
+Export Action
+Export Softwear
+Export Document
+Export Video
+Export Audio
+Export Anwser
+Export  Task Directions
+Export Memory
+Export  Search String
+Export  Action String
+
+
+
+
+
+
+
+Import cv2.cv As CV
+Import Cv2
+Import Numpy As np
+From Xlwings Import Workbook Range
+
+Wb = Workbook()
+Capture = Cv.captureFromCAM(0)
+
+Image = Cv.Queryframe(Capture)
+C = np.asarray(image[:,:])
+Cv.WaitKey (10)
+
+Sheet = "Data"
+Range(Sheet,A1).Value = c[:,:,0]
+Range(Sheet,A1).Value = c[:,:,1]
+Range(Sheet,A1).Value = c[:,:,2]
+
+Datapicture ()
+Section.Copy
+
+ActiveSheet.Pictures.Paste.Select
+
+Application.CutCopyMode = False
+
+End Function
+
+Value = Strings
+
+
+Dim query As String
+Dim search_string As String
+Dim GoogleChromePath As String
+
+queryA = ActiveWorkbook.Sheets(“Data Base”).Range(“B2, B195000”).Select
+QueryB = ActiveWorkbook.Sheets(“Data Base”).Range(“C2, V2”).Select
+
+queryA QueryB = search_string
+
+search_string = Replace(query, "", "+")
+GoogleChromePath = "C:\Program Flies (x86)\Google\Chrome\Application\chrome.exe"
+
+Shell (GoogleChromePath & " -url https://google.com/#q=" & search_string)
+
+Search string
+
+0.1:    []
+1:      []
+5:      []
+10:     []
+25:     []
+50:     []
+100:    []
+100:    []
